@@ -1,10 +1,7 @@
 # My name is Supratik Chakraborty.
-<br>
-<br>
-<br>
 I am a:- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/pronouns/hehim.png" alt="He/Him">
 <br>
-<br>
+<!--
 Ask me about:-
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Python" style="vertical-align:top margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="HTML" style="margin:6px 4px">
@@ -29,7 +26,4 @@ Ask me about:-
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png" alt="Visual Studio" style="margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="Visual Studio Code" style="margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/pc.png" alt="PC" style="margin:6px 4px">
-<br>
-<br>
-Connect with me:-
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/gmail.png" alt="Gmail" style="margin:6px 4px"><a href="mailto:supratikroop@gmail.com">Mail</a>
+-->
